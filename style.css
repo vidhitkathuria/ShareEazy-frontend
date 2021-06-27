@@ -22,7 +22,7 @@ body {
 .image-vector {
   width: 60vw;
   height: 60vh;
-  background: url(/undraw-upload.png) no-repeat center;
+  background: url(./undraw-upload.png) no-repeat center;
   background-size: contain;
 }
 
